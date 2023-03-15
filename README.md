@@ -4,7 +4,7 @@ That you for stopping by my Spark project. From the research that I have done so
 # Description
 To work with Spark on the local machine, you must install some packages and create a local variable enabling Spark to run on the local machine. To get Spark to work using the notebook on this repo, you need to download some and create local variables. Below are the instructions.
 ** Requirements for Spark setup in a windows machine
-*** JDK 
+** JDK 
 *** Python
 *** Hadoop winutiles
 *** Spark Binaries
